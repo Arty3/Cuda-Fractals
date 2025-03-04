@@ -3,28 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\GLManger.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\GLManger.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\View.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\View.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Sets.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Sets.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Fractal.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Fractal.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\colors_fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\colors_fragment.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\colors_vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\colors_vertex.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Colors.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Colors.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Fractal.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Fractal.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\GLManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\GLManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.cuh||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Sets.cuh||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\Renderer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.cuh||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{884AD2D2-6494-4890-809A-60488AB82707}|Cuda-Fractal\\Cuda-Fractal.vcxproj|solutionrelative:Cuda-Fractal\\View.cuh||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,80 +58,145 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "View.cu",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.cu",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\View.cu",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.cu",
+              "RelativeToolTip": "Cuda-Fractal\\View.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T19:35:18.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sets.cu",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.cu",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\Sets.cu",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.cu",
+              "RelativeToolTip": "Cuda-Fractal\\Sets.cu",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T19:30:34.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sets.cuh",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.cuh",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\Sets.cuh",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.cuh",
+              "RelativeToolTip": "Cuda-Fractal\\Sets.cuh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T19:26:38.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\main.cpp",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\main.cpp",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\main.cpp",
+              "RelativeToolTip": "Cuda-Fractal\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAN0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-04T17:48:25.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Renderer.hpp",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Renderer.hpp",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\Renderer.hpp",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Renderer.hpp",
+              "RelativeToolTip": "Cuda-Fractal\\Renderer.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-04T17:21:53.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "colors_vertex.glsl",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\colors_vertex.glsl",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\colors_vertex.glsl",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\colors_vertex.glsl",
+              "RelativeToolTip": "Cuda-Fractal\\colors_vertex.glsl",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T17:19:02.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "colors_fragment.glsl",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\colors_fragment.glsl",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\colors_fragment.glsl",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\colors_fragment.glsl",
+              "RelativeToolTip": "Cuda-Fractal\\colors_fragment.glsl",
+              "ViewState": "AgIAANUAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-04T17:17:10.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Colors.hpp",
               "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Colors.hpp",
               "RelativeDocumentMoniker": "Cuda-Fractal\\Colors.hpp",
               "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Colors.hpp",
               "RelativeToolTip": "Cuda-Fractal\\Colors.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-04T11:20:02.048Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "View.hpp",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.hpp",
-              "RelativeDocumentMoniker": "Cuda-Fractal\\View.hpp",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.hpp",
-              "RelativeToolTip": "Cuda-Fractal\\View.hpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "DocumentIndex": 10,
+              "Title": "View.cuh",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.cuh",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\View.cuh",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\View.cuh",
+              "RelativeToolTip": "Cuda-Fractal\\View.cuh",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-04T11:17:14.866Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sets.hpp",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.hpp",
-              "RelativeDocumentMoniker": "Cuda-Fractal\\Sets.hpp",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Sets.hpp",
-              "RelativeToolTip": "Cuda-Fractal\\Sets.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T11:14:55.087Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GLManger.hpp",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\GLManger.hpp",
-              "RelativeDocumentMoniker": "Cuda-Fractal\\GLManger.hpp",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\GLManger.hpp",
-              "RelativeToolTip": "Cuda-Fractal\\GLManger.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "GLManager.hpp",
+              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\GLManager.hpp",
+              "RelativeDocumentMoniker": "Cuda-Fractal\\GLManager.hpp",
+              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\GLManager.hpp",
+              "RelativeToolTip": "Cuda-Fractal\\GLManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-04T10:49:02.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Fractal.hpp",
               "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Fractal.hpp",
               "RelativeDocumentMoniker": "Cuda-Fractal\\Fractal.hpp",
               "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\Fractal.hpp",
               "RelativeToolTip": "Cuda-Fractal\\Fractal.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-03-04T10:12:09.69Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "kernel.cu",
-              "DocumentMoniker": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\kernel.cu",
-              "RelativeDocumentMoniker": "Cuda-Fractal\\kernel.cu",
-              "ToolTip": "C:\\Users\\Luca\\Desktop\\Projects\\c\\Cuda-Fractal\\Cuda-Fractal\\kernel.cu",
-              "RelativeToolTip": "Cuda-Fractal\\kernel.cu",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-03-04T10:10:39.628Z",
               "EditorCaption": ""
             }
           ]

@@ -1,28 +1,56 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CudaCompile Include="kernel.cu" />
-  </ItemGroup>
-  <ItemGroup>
     <Filter Include="Headers">
       <UniqueIdentifier>{539ee63a-0482-47fc-a0b0-4f18bb7271bd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{4fe5bed1-86db-40bc-93e9-8cae159f2319}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="src">
+      <UniqueIdentifier>{4186f659-eb93-4a49-875b-933f0279ebd2}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Fractal.hpp">
       <Filter>Headers</Filter>
     </ClInclude>
-    <ClInclude Include="GLManger.hpp">
+    <ClInclude Include="GLManager.hpp">
       <Filter>Headers</Filter>
     </ClInclude>
-    <ClInclude Include="Sets.hpp">
-      <Filter>Headers</Filter>
-    </ClInclude>
-    <ClInclude Include="View.hpp">
+    <ClInclude Include="View.cuh">
       <Filter>Headers</Filter>
     </ClInclude>
     <ClInclude Include="Colors.hpp">
       <Filter>Headers</Filter>
     </ClInclude>
+    <ClInclude Include="Sets.cuh">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <None Include="colors_fragment.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="colors_vertex.glsl">
+      <Filter>Shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Renderer.hpp">
+      <Filter>Headers</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="Sets.cu">
+      <Filter>src</Filter>
+    </CudaCompile>
+    <CudaCompile Include="View.cu">
+      <Filter>src</Filter>
+    </CudaCompile>
   </ItemGroup>
 </Project>

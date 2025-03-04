@@ -88,17 +88,24 @@
     </CudaLink>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="kernel.cu" />
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="Colors.hpp" />
     <ClInclude Include="Fractal.hpp" />
-    <ClInclude Include="GLManger.hpp" />
-    <ClInclude Include="Sets.hpp" />
-    <ClInclude Include="View.hpp" />
+    <ClInclude Include="GLManager.hpp" />
+    <ClInclude Include="Sets.cuh" />
+    <ClInclude Include="View.cuh" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="colors_fragment.glsl" />
+    <None Include="colors_vertex.glsl" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Renderer.hpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="Sets.cu" />
+    <CudaCompile Include="View.cu" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
