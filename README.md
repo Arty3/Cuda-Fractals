@@ -18,7 +18,7 @@ Once finished I will leave a compiled release link here.
 1. Clone the repository
 
 ```sh
-git clone https://github.com/DontCallMeLuca/Cuda-Fractals.git
+git clone https://github.com/Arty3/Cuda-Fractals.git
 ```
 
 2. Open the repository using Visual Studio
